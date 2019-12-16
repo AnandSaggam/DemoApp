@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DemoApp</string>
+    <string name="enter_your_city">Enter your city name ex: Mumbai</string>
+    <string name="find_restaurant">Find restaurant in your city</string>
+    <string name="restaurant_not_available">Restaurant not available</string>
+    <string name="no_internet">Internet connection not available</string>
+    <string name="search">Search</string>
+    <string name="please_enter_category">Please enter city  name</string>
+</resources>
